@@ -1,3 +1,5 @@
 # cloud-price
 
-cloud price calculator about costs
+cloud price calculator about costs 
+
+(AWS, AZURE)
